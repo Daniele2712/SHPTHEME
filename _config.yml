@@ -1,0 +1,4 @@
+baseurl: "SHPTHEME"
+markdown: kramdown
+gems:
+  - jekyll-sitemap
